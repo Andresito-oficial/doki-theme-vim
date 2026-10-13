@@ -26,7 +26,7 @@ let s:colors = {
       \ "terminalAnsiGreen": { "gui": "#3ab55b", "cterm": "71", "cterm16": "1" },
       \ "terminalAnsiMagenta": { "gui": "#E64747", "cterm": "167", "cterm16": "1" },
       \ "terminalAnsiYellow": { "gui": "#db974d", "cterm": "173", "cterm16": "1" },
-      \ "lineNumberColor": { "gui": "#aaaaaa", "cterm": "248", "cterm16": "1" },
+      \ "lineNumberColor": { "gui": "#8CAA8E", "cterm": "108", "cterm16": "1" },
       \ "lightEditorColor": { "gui": "#e5fae6", "cterm": "254", "cterm16": "1" },
       \ "searchForeground": { "gui": "#393d45", "cterm": "237", "cterm16": "1" },
       \ "searchBackground": { "gui": "#B9F4FF", "cterm": "159", "cterm16": "1" },

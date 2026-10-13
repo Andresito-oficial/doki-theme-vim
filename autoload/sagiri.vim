@@ -6,7 +6,7 @@ let s:colors = {
       \ "foregroundColorEditor": { "gui": "#F8F8F2", "cterm": "255", "cterm16": "1" },
       \ "htmlTagColor": { "gui": "#f3ff83", "cterm": "228", "cterm16": "1" },
       \ "editorAccentColor": { "gui": "#42FA71", "cterm": "83", "cterm16": "1" },
-      \ "classNameColor": { "gui": "#FF8282", "cterm": "210", "cterm16": "1" },
+      \ "classNameColor": { "gui": "#9FBBFF", "cterm": "147", "cterm16": "1" },
       \ "keywordColor": { "gui": "#FFD448", "cterm": "221", "cterm16": "1" },
       \ "keyColor": { "gui": "#F1A4FA", "cterm": "219", "cterm16": "1" },
       \ "errorColor": { "gui": "#ff5555", "cterm": "203", "cterm16": "1" },
