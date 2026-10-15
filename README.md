@@ -39,7 +39,7 @@ cd ~/.vim/pack/themes/start
 3. Clone the repository using the "doki-theme" name:
 
 ```shell
-git clone https://github.com/doki-theme/doki-theme-vim.git doki-theme
+git clone https://github.com/Andresito-oficial/doki-theme-vim.git
 ```
 
 4. Create configuration file (in case you don't have yet):
@@ -80,7 +80,7 @@ cd  ~/.local/share/nvim/site/pack/themes/start
 3. Clone the repository using the "doki-theme" name:
 
 ```shell
-git clone https://github.com/doki-theme/doki-theme-vim.git doki-theme
+git clone https://github.com/Andresito-oficial/doki-theme-vim.git
 ```
 
 4. Create configuration file (in case you don't have yet):
